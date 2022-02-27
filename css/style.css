@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+}
+
+.full-height {
+  height: 80%;
+  background-color: #202124;
+  color: white !important;
+}
+
+.page-footer {
+  background-color: #171717;
+  height: 20%;
+}
+.page-footer .footer-copyright {
+  background-color: #171717;
+  border-top: 1px solid #202124;
+}
+
+.transparent {
+  position: fixed;
+  -webkit-box-shadow: none;
+}
+.container {
+  width: 98% !important;
+}
+
+.footer-links {
+  display: inline;
+}
+
+.footer-links > li {
+  float: left;
+  margin-left: 15px;
+}
+
+.input-field .prefix {
+  font-size: 1.8rem;
+}
